@@ -42,7 +42,7 @@ Where a meeting has attendees from multiple external domains, batch them into a 
 
 - `found`: proceed with full enrichment below
 - `ambiguous`: note in the briefing that multiple Salesforce accounts matched; proceed with whatever public context is available
-- `not_found` or `error`: proceed without Salesforce data; note the gap briefly
+- `not_found` or `error`: proceed without Salesforce ; note the gap briefly
 
 **Account detail**
 
@@ -82,7 +82,7 @@ Using the Microsoft 365 connector, search your inbox for recent emails from `no-
 
 ### 2d. Whitespace
 
-The whitespace analysis is at `data/whitespace.xlsx` in this repository. Cross-reference the company's current subscriptions (from Salesforce) against the whitespace file. Identify any products Cornwall Insight offers that the company does not currently hold and that are relevant to their segment. Keep this to one or two sentences. Do not list every product gap mechanically.
+The whitespace analysis is at `whitespace.xlsx` in this repository. Cross-reference the company's current subscriptions (from Salesforce) against the whitespace file. Identify any products Cornwall Insight offers that the company does not currently hold and that are relevant to their segment. Keep this to one or two sentences. Do not list every product gap mechanically.
 
 **Product and segment reference**
 
