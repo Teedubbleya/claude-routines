@@ -107,7 +107,7 @@ A company may straddle segments (e.g. a vertically integrated utility that both 
 Post all briefing notes as a single Adaptive Card to this webhook:
 
 ```
-POST https://default669258b1dc204bf798a553da7e10bf.1f.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/58b44b5e072c49f49a00834beb903968/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=sUYTM1nJeOYMO0Aw_sBk3S__Am6G4S2Q2PXlCMRqRLs
+POST https://default669258b1dc204bf798a553da7e10bf.1f.environment.api.powerplatform.com:443/powerautomate/automations/direct/workflows/3bec682a1c1a4b2baaae47c11ad0c195/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=lyBuhnVwRrpiRX6UfRi1lSjQ_SJ42d1UNx3pm8tFlHA
 Content-Type: application/json
 ```
 
